@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240">
+  <rect x="20" y="80" width="120" height="70" rx="12" />
+  <rect x="160" y="80" width="130" height="70" rx="12" />
+  <rect x="310" y="80" width="130" height="70" rx="12" />
+  <rect x="460" y="80" width="120" height="70" rx="12" />
+  <rect x="600" y="80" width="120" height="70" rx="12" />
+  <rect x="740" y="80" width="120" height="70" rx="12" />
+  <text x="50" y="120">Sensores</text>
+  <text x="185" y="120">Condicionamento</text>
+  <text x="350" y="120">Digitalização</text>
+  <text x="480" y="120">Processamento</text>
+  <text x="635" y="120">Decisão</text>
+  <text x="770" y="120">Atuação</text>
+</svg>
