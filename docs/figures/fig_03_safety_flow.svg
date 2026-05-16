@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240">
+  <rect x="40" y="70" width="170" height="70" rx="10" />
+  <rect x="250" y="70" width="170" height="70" rx="10" />
+  <rect x="460" y="70" width="170" height="70" rx="10" />
+  <rect x="670" y="70" width="170" height="70" rx="10" />
+  <text x="70" y="112">Monitoramento</text>
+  <text x="290" y="112">Validação</text>
+  <text x="490" y="112">Limitação</text>
+  <text x="700" y="112">Desligamento</text>
+</svg>
