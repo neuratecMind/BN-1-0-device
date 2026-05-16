@@ -1,0 +1,1 @@
+bn-1-0-device v0.1.1 bundle manifest
