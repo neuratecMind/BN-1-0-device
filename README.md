@@ -10,3 +10,12 @@ Este repositório contém:
 - material expressivo protegido por direito autoral.
 
 Este repositório não contém parâmetros sensíveis, calibração integral, lógica proprietária final nem especificações completas de atuação.
+
+## Purpose
+
+This repository serves as public evidence of:
+- Authorship of the device identity
+- Date of creation
+- First public disclosure
+- Continuous use intent
+- 
