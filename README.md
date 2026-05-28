@@ -18,4 +18,3 @@ This repository serves as public evidence of:
 - Date of creation
 - First public disclosure
 - Continuous use intent
-- ...
